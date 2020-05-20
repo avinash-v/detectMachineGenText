@@ -9,4 +9,4 @@ The data source files are available:
   2. 'webtext.test.jsonl' contains 5000 records of human written text
 
 You can run the notebook on Anaconda Navigator.
-The packages needed to run the notebook are as follows: pandas, numpy, sklearn, math, matplotlib, seaborn, itertools, nltk
+The packages needed to run the notebook are as follows: pandas, numpy, sklearn, math, matplotlib, seaborn, itertools, nltk, jsonlines, keras
